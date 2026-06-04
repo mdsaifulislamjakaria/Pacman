@@ -28,7 +28,7 @@ The goal is simple: Eat all the food dots while avoiding the four colorful ghost
 * `PacMan.java`: This file contains the game logic, including how characters move and how the game is drawn.
 
 ## How to Run the Game
-1. Download or clone this project: https://github.com/JUNAYED-2023831028/pacman
+1. Download or clone this project: https://github.com/mdsaifulislamjakaria/Pacman
 2. Open the project in an IDE like IntelliJ IDEA, VS Code, or Eclipse.
 3. Run the `App.java` file.
 
